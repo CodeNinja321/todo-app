@@ -4,6 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="app">
+      <input />
+      <button>Add Todo</button>
     </div>
   );
 }
